@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[>-->> start initialize elements<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> initialize is completed<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> go to URL<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try load page https://www.bing.com/<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> page https://www.bing.com/ is loaded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the logo visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the search field visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the search button visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> check that logo is enabled<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> check that logo is clickable<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> check that search field is enabled<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> check that search field is clickable<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> check input to search field<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> chack that search button is enabled<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> check that search button is clickable<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[-----------------------------  test completed ------------------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[---------------------  search by 'maven' expression  -----------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> compare variants with key expression and take last part of element<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> go to URL<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try load page https://www.bing.com/<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> page https://www.bing.com/ is loaded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the logo visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the search field visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the search button visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> clear search field<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> input part of the search expression<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait until variants of the full expression will be displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> click on it<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']] was clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait until result will be displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> get URL from result title<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> click on title<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
+    </line>
+    <line>
+      <![CDATA[-----------------------------  test completed ------------------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[---------------------  search by 'testng' expression  -----------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> compare variants with key expression and take last part of element<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> go to URL<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try load page https://www.bing.com/<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> page https://www.bing.com/ is loaded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the logo visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the search field visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the search button visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> clear search field<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> input part of the search expression<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait until variants of the full expression will be displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> click on it<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']] was clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait until result will be displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> get URL from result title<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> click on title<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
+    </line>
+    <line>
+      <![CDATA[-----------------------------  test completed ------------------------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[---------------------  search by 'qatestlab' expression  -----------------<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> compare variants with key expression and take last part of element<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> go to URL<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try load page https://www.bing.com/<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> page https://www.bing.com/ is loaded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the logo visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the search field visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait the search button visibility<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> clear search field<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> input part of the search expression<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait until variants of the full expression will be displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> click on it<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab'] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']] was clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> wait until result will be displayed<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> get URL from result title<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> click on title<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
+    </line>
+    <line>
+      <![CDATA[-----------------------------  test completed ------------------------------<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="14281" started-at="2016-12-25T13:40:10Z" finished-at="2016-12-25T13:40:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14281" started-at="2016-12-25T13:40:10Z" finished-at="2016-12-25T13:40:24Z">
+      <class name="com.ohrimenko1988.QA_homework_4.Main">
+        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="initialize" is-config="true" duration-ms="2909" started-at="2016-12-25T15:40:10Z" finished-at="2016-12-25T15:40:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WINDOWS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[localhost:4444]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[>-->> start initialize elements<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> initialize is completed<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="goToPageAndCheckIt()[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="goToPageAndCheckIt" duration-ms="1328" started-at="2016-12-25T15:40:13Z" finished-at="2016-12-25T15:40:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[>-->> go to URL<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try load page https://www.bing.com/<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> page https://www.bing.com/ is loaded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the logo visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the search field visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the search button visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> check that logo is enabled<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> check that logo is clickable<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> check that search field is enabled<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> check that search field is clickable<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> check input to search field<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> chack that search button is enabled<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> check that search button is clickable<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[-----------------------------  test completed ------------------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- goToPageAndCheckIt -->
+        <test-method status="PASS" signature="searchCheckAndSave(java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="searchCheckAndSave" duration-ms="2991" started-at="2016-12-25T15:40:14Z" data-provider="fromTextFileToDataProvider" depends-on-methods="com.ohrimenko1988.QA_homework_4.Main.goToPageAndCheckIt" finished-at="2016-12-25T15:40:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mave]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[maven]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[---------------------  search by 'maven' expression  -----------------<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> compare variants with key expression and take last part of element<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> go to URL<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try load page https://www.bing.com/<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> page https://www.bing.com/ is loaded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the logo visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the search field visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the search button visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> clear search field<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> input part of the search expression<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait until variants of the full expression will be displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> click on it<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']] was clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait until result will be displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> get URL from result title<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> click on title<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
+            </line>
+            <line>
+              <![CDATA[-----------------------------  test completed ------------------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchCheckAndSave -->
+        <test-method status="PASS" signature="searchCheckAndSave(java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="searchCheckAndSave" duration-ms="3179" started-at="2016-12-25T15:40:17Z" data-provider="fromTextFileToDataProvider" depends-on-methods="com.ohrimenko1988.QA_homework_4.Main.goToPageAndCheckIt" finished-at="2016-12-25T15:40:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testn]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testng]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[---------------------  search by 'testng' expression  -----------------<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> compare variants with key expression and take last part of element<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> go to URL<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try load page https://www.bing.com/<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> page https://www.bing.com/ is loaded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the logo visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the search field visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the search button visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> clear search field<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> input part of the search expression<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait until variants of the full expression will be displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> click on it<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']] was clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait until result will be displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> get URL from result title<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> click on title<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
+            </line>
+            <line>
+              <![CDATA[-----------------------------  test completed ------------------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchCheckAndSave -->
+        <test-method status="PASS" signature="searchCheckAndSave(java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="searchCheckAndSave" duration-ms="3087" started-at="2016-12-25T15:40:21Z" data-provider="fromTextFileToDataProvider" depends-on-methods="com.ohrimenko1988.QA_homework_4.Main.goToPageAndCheckIt" finished-at="2016-12-25T15:40:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qatest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qatestlab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[---------------------  search by 'qatestlab' expression  -----------------<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> compare variants with key expression and take last part of element<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> go to URL<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try load page https://www.bing.com/<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> page https://www.bing.com/ is loaded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the logo visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the search field visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait the search button visibility<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> clear search field<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> input part of the search expression<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait until variants of the full expression will be displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> click on it<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab'] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']] was clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> wait until result will be displayed<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> get URL from result title<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> click on title<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
+            </line>
+            <line>
+              <![CDATA[-----------------------------  test completed ------------------------------<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchCheckAndSave -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="tearDown" is-config="true" duration-ms="777" started-at="2016-12-25T15:40:24Z" finished-at="2016-12-25T15:40:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ohrimenko1988.QA_homework_4.Main -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite1 -->
+</testng-results>

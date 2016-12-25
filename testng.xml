@@ -1,0 +1,30 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+
+    <!--
+            driverName            :   "chrome" , "firefox"
+            platform              :   "WINDOWS"
+            hostAndPort           :   "localhost:4444"
+            
+            driverName            :   "android"
+            platform              :   "ANDROID"
+            hostAndPort           :   "localhost:4444"
+            
+    -->
+
+<!-- ====================   Test =============================== -->
+   <test name="Test" >
+
+        <parameter name="driverName" value="chrome"/>
+        <parameter name="platformName" value="WINDOWS"/>
+        <parameter name="hostAndPort" value="localhost:4444"/>
+
+        <classes>
+            <class name="com.ohrimenko1988.QA_homework_4.Main" />
+        </classes>
+
+    </test>
+<!-- ====================================================================== -->
+
+</suite>

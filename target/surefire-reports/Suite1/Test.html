@@ -1,0 +1,313 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>4/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Dec 25 15:40:10 EET 2016</td>
+</tr>
+<tr><td>Total time:</td><td>14 seconds (14281 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.ohrimenko1988.QA_homework_4.Main.goToPageAndCheckIt()'><b>goToPageAndCheckIt</b><br>Test class: com.ohrimenko1988.QA_homework_4.Main<br/>
+<a href="#Output-6444850" onClick='toggleBox("Output-6444850", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-6444850" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-6444850">
+>-->> go to URL<br><br/>
+--->> try load page https://www.bing.com/<br><br/>
+--->> page https://www.bing.com/ is loaded<br><br/>
+>-->> wait the logo visibility<br><br/>
+--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br><br/>
+--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br><br/>
+>-->> wait the search field visibility<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+>-->> wait the search button visibility<br><br/>
+--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br><br/>
+--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br><br/>
+>-->> check that logo is enabled<br><br/>
+--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br><br/>
+--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br><br/>
+>-->> check that logo is clickable<br><br/>
+--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br><br/>
+--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br><br/>
+>-->> check that search field is enabled<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+>-->> check that search field is clickable<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br><br/>
+--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br><br/>
+--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br><br/>
+>-->> check input to search field<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br><br/>
+--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br><br/>
+>-->> chack that search button is enabled<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+>-->> check that search button is clickable<br><br/>
+--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br><br/>
+--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br><br/>
+-----------------------------  test completed ------------------------------<br><br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.ohrimenko1988.QA_homework_4.Main@6fb554cc</td></tr>
+<tr>
+<td title='com.ohrimenko1988.QA_homework_4.Main.searchCheckAndSave()'><b>searchCheckAndSave</b><br>Test class: com.ohrimenko1988.QA_homework_4.Main<br>Parameters: mave, maven<br/>
+<a href="#Output-423583818" onClick='toggleBox("Output-423583818", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-423583818" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-423583818">
+---------------------  search by 'maven' expression  -----------------<br><br/>
+>-->> compare variants with key expression and take last part of element<br><br/>
+>-->> go to URL<br><br/>
+--->> try load page https://www.bing.com/<br><br/>
+--->> page https://www.bing.com/ is loaded<br><br/>
+>-->> wait the logo visibility<br><br/>
+--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br><br/>
+--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br><br/>
+>-->> wait the search field visibility<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+>-->> wait the search button visibility<br><br/>
+--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br><br/>
+--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br><br/>
+>-->> clear search field<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br><br/>
+--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br><br/>
+>-->> input part of the search expression<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br><br/>
+--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br><br/>
+>-->> wait until part of the expression will be displayed in the search field<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+>-->> wait until variants of the full expression will be displayed<br><br/>
+--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']<br><br/>
+--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n'] --- was founded<br><br/>
+>-->> click on it<br><br/>
+--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']<br><br/>
+--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n'] --- was founded<br><br/>
+--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']]<br><br/>
+--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']] was clicked<br><br/>
+>-->> wait until result will be displayed<br><br/>
+--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br><br/>
+--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br><br/>
+>-->> get URL from result title<br><br/>
+--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br><br/>
+--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br><br/>
+>-->> click on title<br><br/>
+--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br><br/>
+--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br><br/>
+--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br><br/>
+--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br><br/>
+>-->> check on match the title URL and the page URL<br><br/>
+-----------------------------  test completed ------------------------------<br><br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.ohrimenko1988.QA_homework_4.Main@6fb554cc</td></tr>
+<tr>
+<td title='com.ohrimenko1988.QA_homework_4.Main.searchCheckAndSave()'><b>searchCheckAndSave</b><br>Test class: com.ohrimenko1988.QA_homework_4.Main<br>Parameters: testn, testng<br/>
+<a href="#Output-556488341" onClick='toggleBox("Output-556488341", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-556488341" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-556488341">
+---------------------  search by 'testng' expression  -----------------<br><br/>
+>-->> compare variants with key expression and take last part of element<br><br/>
+>-->> go to URL<br><br/>
+--->> try load page https://www.bing.com/<br><br/>
+--->> page https://www.bing.com/ is loaded<br><br/>
+>-->> wait the logo visibility<br><br/>
+--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br><br/>
+--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br><br/>
+>-->> wait the search field visibility<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+>-->> wait the search button visibility<br><br/>
+--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br><br/>
+--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br><br/>
+>-->> clear search field<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br><br/>
+--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br><br/>
+>-->> input part of the search expression<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br><br/>
+--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br><br/>
+>-->> wait until part of the expression will be displayed in the search field<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+>-->> wait until variants of the full expression will be displayed<br><br/>
+--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']<br><br/>
+--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g'] --- was founded<br><br/>
+>-->> click on it<br><br/>
+--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']<br><br/>
+--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g'] --- was founded<br><br/>
+--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']]<br><br/>
+--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']] was clicked<br><br/>
+>-->> wait until result will be displayed<br><br/>
+--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br><br/>
+--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br><br/>
+>-->> get URL from result title<br><br/>
+--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br><br/>
+--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br><br/>
+>-->> click on title<br><br/>
+--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br><br/>
+--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br><br/>
+--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br><br/>
+--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br><br/>
+>-->> check on match the title URL and the page URL<br><br/>
+-----------------------------  test completed ------------------------------<br><br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.ohrimenko1988.QA_homework_4.Main@6fb554cc</td></tr>
+<tr>
+<td title='com.ohrimenko1988.QA_homework_4.Main.searchCheckAndSave()'><b>searchCheckAndSave</b><br>Test class: com.ohrimenko1988.QA_homework_4.Main<br>Parameters: qatest, qatestlab<br/>
+<a href="#Output-2033968586" onClick='toggleBox("Output-2033968586", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2033968586" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2033968586">
+---------------------  search by 'qatestlab' expression  -----------------<br><br/>
+>-->> compare variants with key expression and take last part of element<br><br/>
+>-->> go to URL<br><br/>
+--->> try load page https://www.bing.com/<br><br/>
+--->> page https://www.bing.com/ is loaded<br><br/>
+>-->> wait the logo visibility<br><br/>
+--->> try find element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp'] <br><br/>
+--->> element --- By.xpath: //*[@class='hp_sw_logo hpcLogoWhite' or @id='bLogoExp']  --- was founded<br><br/>
+>-->> wait the search field visibility<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+>-->> wait the search button visibility<br><br/>
+--->> try find element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn'] <br><br/>
+--->> element --- By.xpath: //*[@class='b_searchboxSubmit' or @id='sbBtn']  --- was founded<br><br/>
+>-->> clear search field<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br><br/>
+--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br><br/>
+>-->> input part of the search expression<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br><br/>
+--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br><br/>
+>-->> wait until part of the expression will be displayed in the search field<br><br/>
+--->> try find element --- By.xpath: //*[@name='q']<br><br/>
+--->> element --- By.xpath: //*[@name='q'] --- was founded<br><br/>
+>-->> wait until variants of the full expression will be displayed<br><br/>
+--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']<br><br/>
+--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab'] --- was founded<br><br/>
+>-->> click on it<br><br/>
+--->> try find element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']<br><br/>
+--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab'] --- was founded<br><br/>
+--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']]<br><br/>
+--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']] was clicked<br><br/>
+>-->> wait until result will be displayed<br><br/>
+--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br><br/>
+--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br><br/>
+>-->> get URL from result title<br><br/>
+--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br><br/>
+--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br><br/>
+>-->> click on title<br><br/>
+--->> try find element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1]<br><br/>
+--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br><br/>
+--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br><br/>
+--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br><br/>
+>-->> check on match the title URL and the page URL<br><br/>
+-----------------------------  test completed ------------------------------<br><br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.ohrimenko1988.QA_homework_4.Main@6fb554cc</td></tr>
+</table><p>
+</body>
+</html>
