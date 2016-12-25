@@ -21,7 +21,7 @@
         <parameter name="hostAndPort" value="localhost:4444"/>
 
         <classes>
-            <class name="com.ohrimenko1988.QA_homework_4.Main" />
+            <class name="com.ohrimenko1988.QA_homework_5.Main" />
         </classes>
 
     </test>

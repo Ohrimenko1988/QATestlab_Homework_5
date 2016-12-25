@@ -86,10 +86,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
     </line>
     <line>
       <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
@@ -98,10 +98,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
     </line>
     <line>
       <![CDATA[>-->> check input to search field<br>]]>
@@ -119,10 +119,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
     </line>
     <line>
       <![CDATA[>-->> chack that search button is enabled<br>]]>
@@ -197,10 +197,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
     </line>
     <line>
       <![CDATA[>-->> input part of the search expression<br>]]>
@@ -212,10 +212,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
     </line>
     <line>
       <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
@@ -245,10 +245,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']]<br>]]>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']] was clicked<br>]]>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']] was clicked<br>]]>
     </line>
     <line>
       <![CDATA[>-->> wait until result will be displayed<br>]]>
@@ -278,10 +278,10 @@
       <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
     </line>
     <line>
       <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
@@ -341,10 +341,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
     </line>
     <line>
       <![CDATA[>-->> input part of the search expression<br>]]>
@@ -356,10 +356,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
     </line>
     <line>
       <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
@@ -389,10 +389,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']]<br>]]>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']] was clicked<br>]]>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']] was clicked<br>]]>
     </line>
     <line>
       <![CDATA[>-->> wait until result will be displayed<br>]]>
@@ -422,10 +422,10 @@
       <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
     </line>
     <line>
       <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
@@ -485,10 +485,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
     </line>
     <line>
       <![CDATA[>-->> input part of the search expression<br>]]>
@@ -500,10 +500,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+      <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+      <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
     </line>
     <line>
       <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
@@ -533,10 +533,10 @@
       <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab'] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']]<br>]]>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']] was clicked<br>]]>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']] was clicked<br>]]>
     </line>
     <line>
       <![CDATA[>-->> wait until result will be displayed<br>]]>
@@ -566,10 +566,10 @@
       <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
     </line>
     <line>
-      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+      <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
     </line>
     <line>
-      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+      <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
     </line>
     <line>
       <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
@@ -578,12 +578,12 @@
       <![CDATA[-----------------------------  test completed ------------------------------<br>]]>
     </line>
   </reporter-output>
-  <suite name="Suite1" duration-ms="14281" started-at="2016-12-25T13:40:10Z" finished-at="2016-12-25T13:40:24Z">
+  <suite name="Suite1" duration-ms="14268" started-at="2016-12-25T13:47:43Z" finished-at="2016-12-25T13:47:57Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14281" started-at="2016-12-25T13:40:10Z" finished-at="2016-12-25T13:40:24Z">
-      <class name="com.ohrimenko1988.QA_homework_4.Main">
-        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="initialize" is-config="true" duration-ms="2909" started-at="2016-12-25T15:40:10Z" finished-at="2016-12-25T15:40:13Z">
+    <test name="Test" duration-ms="14268" started-at="2016-12-25T13:47:43Z" finished-at="2016-12-25T13:47:57Z">
+      <class name="com.ohrimenko1988.QA_homework_5.Main">
+        <test-method status="PASS" signature="initialize(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_5.Main@3f2a3a5]" name="initialize" is-config="true" duration-ms="2822" started-at="2016-12-25T15:47:43Z" finished-at="2016-12-25T15:47:46Z">
           <params>
             <param index="0">
               <value>
@@ -610,7 +610,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="goToPageAndCheckIt()[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="goToPageAndCheckIt" duration-ms="1328" started-at="2016-12-25T15:40:13Z" finished-at="2016-12-25T15:40:14Z">
+        <test-method status="PASS" signature="goToPageAndCheckIt()[pri:0, instance:com.ohrimenko1988.QA_homework_5.Main@3f2a3a5]" name="goToPageAndCheckIt" duration-ms="1774" started-at="2016-12-25T15:47:46Z" finished-at="2016-12-25T15:47:48Z">
           <reporter-output>
             <line>
               <![CDATA[>-->> go to URL<br>]]>
@@ -691,10 +691,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
             </line>
             <line>
               <![CDATA[--->> try find element --- By.xpath: //*[@name='q']<br>]]>
@@ -703,10 +703,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
             </line>
             <line>
               <![CDATA[>-->> check input to search field<br>]]>
@@ -724,10 +724,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
             </line>
             <line>
               <![CDATA[>-->> chack that search button is enabled<br>]]>
@@ -752,7 +752,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- goToPageAndCheckIt -->
-        <test-method status="PASS" signature="searchCheckAndSave(java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="searchCheckAndSave" duration-ms="2991" started-at="2016-12-25T15:40:14Z" data-provider="fromTextFileToDataProvider" depends-on-methods="com.ohrimenko1988.QA_homework_4.Main.goToPageAndCheckIt" finished-at="2016-12-25T15:40:17Z">
+        <test-method status="PASS" signature="searchCheckAndSave(java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_5.Main@3f2a3a5]" name="searchCheckAndSave" duration-ms="2919" started-at="2016-12-25T15:47:48Z" data-provider="fromTextFileToDataProvider" depends-on-methods="com.ohrimenko1988.QA_homework_5.Main.goToPageAndCheckIt" finished-at="2016-12-25T15:47:51Z">
           <params>
             <param index="0">
               <value>
@@ -818,10 +818,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
             </line>
             <line>
               <![CDATA[>-->> input part of the search expression<br>]]>
@@ -833,10 +833,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
             </line>
             <line>
               <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
@@ -866,10 +866,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']]<br>]]>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']] was clicked<br>]]>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'maven' or text()='n']] was clicked<br>]]>
             </line>
             <line>
               <![CDATA[>-->> wait until result will be displayed<br>]]>
@@ -899,10 +899,10 @@
               <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
             </line>
             <line>
               <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
@@ -912,7 +912,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- searchCheckAndSave -->
-        <test-method status="PASS" signature="searchCheckAndSave(java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="searchCheckAndSave" duration-ms="3179" started-at="2016-12-25T15:40:17Z" data-provider="fromTextFileToDataProvider" depends-on-methods="com.ohrimenko1988.QA_homework_4.Main.goToPageAndCheckIt" finished-at="2016-12-25T15:40:21Z">
+        <test-method status="PASS" signature="searchCheckAndSave(java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_5.Main@3f2a3a5]" name="searchCheckAndSave" duration-ms="2916" started-at="2016-12-25T15:47:51Z" data-provider="fromTextFileToDataProvider" depends-on-methods="com.ohrimenko1988.QA_homework_5.Main.goToPageAndCheckIt" finished-at="2016-12-25T15:47:54Z">
           <params>
             <param index="0">
               <value>
@@ -978,10 +978,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
             </line>
             <line>
               <![CDATA[>-->> input part of the search expression<br>]]>
@@ -993,10 +993,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
             </line>
             <line>
               <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
@@ -1026,10 +1026,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']]<br>]]>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']] was clicked<br>]]>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'testng' or text()='g']] was clicked<br>]]>
             </line>
             <line>
               <![CDATA[>-->> wait until result will be displayed<br>]]>
@@ -1059,10 +1059,10 @@
               <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
             </line>
             <line>
               <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
@@ -1072,7 +1072,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- searchCheckAndSave -->
-        <test-method status="PASS" signature="searchCheckAndSave(java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="searchCheckAndSave" duration-ms="3087" started-at="2016-12-25T15:40:21Z" data-provider="fromTextFileToDataProvider" depends-on-methods="com.ohrimenko1988.QA_homework_4.Main.goToPageAndCheckIt" finished-at="2016-12-25T15:40:24Z">
+        <test-method status="PASS" signature="searchCheckAndSave(java.lang.String, java.lang.String)[pri:0, instance:com.ohrimenko1988.QA_homework_5.Main@3f2a3a5]" name="searchCheckAndSave" duration-ms="2726" started-at="2016-12-25T15:47:54Z" data-provider="fromTextFileToDataProvider" depends-on-methods="com.ohrimenko1988.QA_homework_5.Main.goToPageAndCheckIt" finished-at="2016-12-25T15:47:56Z">
           <params>
             <param index="0">
               <value>
@@ -1138,10 +1138,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
             </line>
             <line>
               <![CDATA[>-->> input part of the search expression<br>]]>
@@ -1153,10 +1153,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@name='q'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']]<br>]]>
+              <![CDATA[--->> try change value [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@name='q']] was changed<br>]]>
+              <![CDATA[--->> value of element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@name='q']] was changed<br>]]>
             </line>
             <line>
               <![CDATA[>-->> wait until part of the expression will be displayed in the search field<br>]]>
@@ -1186,10 +1186,10 @@
               <![CDATA[--->> element --- By.xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab'] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']]<br>]]>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']] was clicked<br>]]>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //*[@class='sa_tm' and text() = 'qatestlab' or text()='lab']] was clicked<br>]]>
             </line>
             <line>
               <![CDATA[>-->> wait until result will be displayed<br>]]>
@@ -1219,10 +1219,10 @@
               <![CDATA[--->> element --- By.xpath: //ol[@id='b_results']/li[1]//h2/a[1] --- was founded<br>]]>
             </line>
             <line>
-              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
+              <![CDATA[--->> try click on [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]]<br>]]>
             </line>
             <line>
-              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (4cf3342d-989f-4ef6-be4d-131121f48547)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
+              <![CDATA[--->> element [[RemoteWebDriver: chrome on XP (d9dae739-aa34-4084-89bd-dd8cd46b14da)] -> xpath: //ol[@id='b_results']/li[1]//h2/a[1]] was clicked<br>]]>
             </line>
             <line>
               <![CDATA[>-->> check on match the title URL and the page URL<br>]]>
@@ -1232,11 +1232,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- searchCheckAndSave -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ohrimenko1988.QA_homework_4.Main@6fb554cc]" name="tearDown" is-config="true" duration-ms="777" started-at="2016-12-25T15:40:24Z" finished-at="2016-12-25T15:40:24Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ohrimenko1988.QA_homework_5.Main@3f2a3a5]" name="tearDown" is-config="true" duration-ms="1100" started-at="2016-12-25T15:47:56Z" finished-at="2016-12-25T15:47:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.ohrimenko1988.QA_homework_4.Main -->
+      </class> <!-- com.ohrimenko1988.QA_homework_5.Main -->
     </test> <!-- Test -->
   </suite> <!-- Suite1 -->
 </testng-results>
